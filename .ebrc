@@ -64,6 +64,19 @@ i2*
 /h\d
 }
 
+
+function+gh {
+db0
+b http://www.github.com
+/<>
+i=~0
+/<Go
+i*
+/h3
+db1
+/
+}
+
 function+undos {
 ,s/\r$//
 }
