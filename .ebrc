@@ -1,7 +1,6 @@
 webtimer=30
 
 emoji=~/.ebsys/Emojis.txt
-jar=~/.ebsys/cookie-jar
 downdir=~/downloads
 
 plugin{
